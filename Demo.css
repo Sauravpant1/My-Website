@@ -1,0 +1,77 @@
+body{
+    background-color: lightblue;
+}
+.navbar{
+    text-align: center;
+}
+div{
+    align-items: center;
+    border:2px solid black;
+    width: 130px;
+    height: 30px;
+    background-color: lightgreen;
+    padding-top: 10px;
+    padding-left: 20px;
+   
+   
+    
+   
+    
+}
+#a1{
+    color: purple;
+    text-decoration: none;
+    padding-right: 50px;
+    
+}#a1:hover{
+    color: orange;
+    font-size: 10px;
+}
+#a2{
+    color: purple;
+    text-decoration: none;
+    padding-right: 50px;
+}#a2:hover{
+    color: orange;
+    font-size: 10px;
+}
+#a3{
+    color: purple;
+    text-decoration: none;
+    padding-right: 50px;
+}#a3:hover{
+    color: orange;
+    font-size: 10px;
+}
+#a4{
+    color: purple;
+    text-decoration: none;
+    padding-right: 50px;
+}#a4:hover{
+    color: orange;
+    font-size: 10px;
+}
+#a5{
+    color: purple;
+    text-decoration: none;
+    padding-right: 20px;
+}#a5:hover{
+    color: orange;
+    font-size: 10px;
+}
+#a6{
+    color: purple;
+    text-decoration: none;
+    padding-right: 20px;
+}#a6:hover{
+    color: orange;
+    font-size: 10px;
+}
+#a7{
+    color: purple;
+    text-decoration: none;
+    padding-right: 20px;
+}#a7:hover{
+    color: orange;
+    font-size: 10px;
+}
