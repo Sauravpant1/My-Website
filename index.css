@@ -4,20 +4,41 @@ body{
 .navbar{
     text-align: center;
 }
-div{
-    align-items: center;
-    border:2px solid black;
-    width: 130px;
-    height: 30px;
-    background-color: lightgreen;
-    padding-top: 10px;
-    padding-left: 20px;
-   
-   
-    
-   
-    
+
+ .social-icons {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  /* border: 2px solid black; */
+  width: 180px;
+  height: 40px;
+  background-color: black;
+  padding: 5px;
+  border-radius: 8px;
+  z-index: 1000;
 }
+
+.social-icons a {
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+  margin: 0 5px;
+}
+
+.social-icons a:hover {
+  color: darkgreen;
+}
+
+
+.social-icons a {
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+}
+
 #a1{
     color: purple;
     text-decoration: none;
