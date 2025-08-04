@@ -38,21 +38,22 @@ body{
     text-decoration: none;
     font-size: 20px;
 }
-.container{
-    border : 2px solid black;
-    border-radius:60px;
-    height: 100px;
-    width: 100px;
-    background-color: lightgrey;
-    justify-content: center;
-    margin: top 500px;
-    z-index: 1000;
+
+/* .content{
+    float: left;
+} */
+#p1{
+    font-size: 13px;
+    color: black;
+    
+
 }
 #a8{
     font-size: 30px;
     color:purple;
     text-decoration: none;
     padding-right: 230px;
+    float: left;
 }
 #a8:hover{
     color: orange;
