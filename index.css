@@ -1,9 +1,9 @@
 body{
     background-color: lightblue;
 }
-.navbar{
+/* .navbar{
     text-align: center;
-}
+} */
 
  .social-icons {
   position: fixed;
@@ -48,15 +48,16 @@ body{
     margin: top 500px;
     z-index: 1000;
 }
-/* #a8{
-    color: purple;
+#a8{
+    font-size: 30px;
+    color:purple;
     text-decoration: none;
-    padding-right: 50px;
-    padding-left: 50px;
-    text-align: right;
-
-    /* padding-right: 100px; */
-/* } */
+    padding-right: 230px;
+}
+#a8:hover{
+    color: orange;
+    font-size: 18px;
+}
 
 #a1{
     color: purple;
