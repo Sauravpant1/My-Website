@@ -1,6 +1,10 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
 h1{
-    position:relative;
+    /* position:relative; */
     width: max-content;
+
 }
 h1::before{
     content:"";
@@ -16,4 +20,37 @@ h1::before{
 h1:hover::before{
     width: 0;
     
+}
+.navbar{
+    text-align: right;
+    right;20px;
+    bottom:50px;
+
+}
+#a2{
+    text-decoration: none;
+    color:blueviolet;
+    padding-right: 50px;
+}
+#a3{
+    text-decoration: none;
+    color:blueviolet;
+    padding-right: 50px;
+}
+#a4{
+    text-decoration: none;
+    color:blueviolet;
+    /* padding-right: 50px; */
+}
+#a2:hover{
+    color:orange;
+    font-size: 10px;
+}
+#a3:hover{
+    color:orange;
+    font-size: 10px;
+}
+#a4:hover{
+    color:orange;
+    font-size: 10px;
 }

@@ -48,18 +48,21 @@ body{
     margin: top 500px;
     z-index: 1000;
 }
-.container a {
-  color: black;
-  text-decoration: none;
-  font-size: 20px;
-  margin: 0 5px;
-}
+/* #a8{
+    color: purple;
+    text-decoration: none;
+    padding-right: 50px;
+    padding-left: 50px;
+    text-align: right;
 
+    /* padding-right: 100px; */
+/* } */
 
 #a1{
     color: purple;
     text-decoration: none;
     padding-right: 50px;
+    /* padding-left :300px; */
     
 }#a1:hover{
     color: orange;

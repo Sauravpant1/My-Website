@@ -1,0 +1,34 @@
+body{
+    background-color: beige;
+}
+.navbar{
+    text-align: right;
+    
+}
+#a1{
+    color: purple;
+    text-decoration: none;
+    padding-right: 50px;
+}
+#a2{
+    color: purple;
+    text-decoration: none;
+    padding-right: 50px;
+}
+#a3{
+    color: purple;
+    text-decoration: none;
+    /* padding-right: 50px; */
+}
+#a1:hover{
+    color: orange;
+    font-size: 10px;
+}
+#a2:hover{
+    color: orange;
+    font-size: 10px;
+}
+#a3:hover{
+    color: orange;
+    font-size: 10px;
+}
