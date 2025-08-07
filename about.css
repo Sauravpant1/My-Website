@@ -5,6 +5,12 @@ body{
     text-align: right;
     
 }
+#a4{
+    color: purple;
+    text-decoration: none;
+    padding-right: 50px;
+}
+
 #a1{
     color: purple;
     text-decoration: none;
@@ -29,6 +35,10 @@ body{
     font-size: 10px;
 }
 #a3:hover{
+    color: orange;
+    font-size: 10px;
+}
+#a4:hover{
     color: orange;
     font-size: 10px;
 }

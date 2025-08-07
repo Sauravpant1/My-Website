@@ -1,0 +1,91 @@
+body{
+    background-color: lightblue;
+}
+.navbar{
+    text-align:right
+}
+#a8{
+    font-size: 20px;
+    color:purple;
+    text-decoration: none;
+    padding-right: 50px;
+    
+}
+#a8:hover{
+    color: orange;
+    font-size: 18px;
+}
+
+#a1{
+    color: purple;
+    text-decoration: none;
+    padding-right: 50px;
+    /* padding-left :300px; */
+    
+}#a1:hover{
+    color: orange;
+    font-size: 10px;
+}
+#a2{
+    color: purple;
+    text-decoration: none;
+    padding-right: 50px;
+}#a2:hover{
+    color: orange;
+    font-size: 10px;
+}
+#a3{
+    color: purple;
+    text-decoration: none;
+    padding-right: 50px;
+}#a3:hover{
+    color: orange;
+    font-size: 10px;
+}
+#a4{
+    color: purple;
+    text-decoration: none;
+    
+}#a4:hover{
+    color: orange;
+    font-size: 10px;
+}
+
+.social-icons{
+    text-align:left;
+}
+#a5{
+    color: purple;
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 30px;
+    
+}
+#a5:hover{
+    color: orange;
+    font-size: 10px;
+}
+#a6{
+    color: purple;
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 30px;
+    
+}
+#a6:hover{
+    color: orange;
+    font-size: 10px;
+}
+#a7{
+    color: purple;
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 30px;
+    
+}
+#a7:hover{
+    color: orange;
+    font-size: 10px;
+}
+
+
